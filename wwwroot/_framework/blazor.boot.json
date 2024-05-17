@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BlazorApp1",
   "resources": {
-    "hash": "sha256-2bWYXwNmCamyLZvwuIltq767hnGk0tuR+FOr9J0927o=",
+    "hash": "sha256-+Cm3w0DSl8ZdzlY1j9uJZ62ewQO6L65ByhA1FyVHOnA=",
     "jsModuleNative": {
       "dotnet.native.8.0.4.a6zlr4sn6c.js": "sha256-ju0+XWE0ihz554eKEj0HQ8Opa61xpbUIaX5/MNo8we4="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "BlazorApp1.wasm": "sha256-hYjwoYR+zb4c8jgkO0sIgKdZMNC3QM9wcCfr9VgTSZ4=",
+      "BlazorApp1.wasm": "sha256-KUmtzc5avOBbR8ot6oFeUOP8iBBsvN/Zz8spuuf+zcI=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-kDak8R55sqa+/813YQx9Y9RA/3dfg/UtDU6xI4lTr6U=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-o3dUFaYZ86Ri9/f+gxNOJf4LxhqxORvIZM29feN1GHk=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-kZSJV9ON9UL924dyAnAeoFHZXExv5A/OCxTHlMc+3fQ=",
@@ -40,10 +40,10 @@
       "System.Memory.wasm": "sha256-fVZAssLgL7tevXU7Wy0Oz/VwdRzqqyl3xk/1+6lMv84=",
       "System.Net.Http.wasm": "sha256-Ls5eXfw6pkkDYFbEtz7+V8Cp+eNUuMbPrvdteQ872zY=",
       "System.Net.Primitives.wasm": "sha256-ge1mBtNYiJT803KGOQF8HvAcldwdHJx5Zw8YKrEzwcA=",
-      "System.Private.CoreLib.wasm": "sha256-ChDvVLeGZd1BsBuSEYJN++YusqxDCyj2SDKwgSYJ1Y4=",
+      "System.Private.CoreLib.wasm": "sha256-OHltOtEkzTiBH2GxA6k2riTbYPIBJ13ELmywq3GsTSE=",
       "System.Private.Uri.wasm": "sha256-x0upnWlhinZ6yQK2tFGLYECLcfVE/cYtMWkSbevUGr8=",
       "System.Runtime.InteropServices.JavaScript.wasm": "sha256-QK2uGp76fQnJOkX7c+FaQmA2Vih1Rqf53n/Q3kp8m3g=",
-      "System.Runtime.wasm": "sha256-dXRcnoSmMhQCoDrV27zuGOfFh2jqaQ+obp/VWsJgF90=",
+      "System.Runtime.wasm": "sha256-NyBT3wwEsSTUy6SqLBCNwQDjeHahz9pglCmbr9ZcoVc=",
       "System.Text.Encodings.Web.wasm": "sha256-r3ODjquYz1kv8rmEvFqbp3+c06aeq4b4whv1G4aX+to=",
       "System.Text.Json.wasm": "sha256-FN9e+3DfB3P7eqZXvrRaQ2VnbriPMRG1LnBXRlejBeA=",
       "System.Text.RegularExpressions.wasm": "sha256-stDxclhSlIn03K9QkMr+8gMVLPJL679NvRYPrYAC43k="
